@@ -1,0 +1,38 @@
+.navbar {
+    padding-left: 95px;
+}
+
+.user-table,
+.user-info,
+.photo-albums,
+.photos {
+    padding: 0 110px;
+}
+
+table tbody tr {
+    cursor: pointer;
+}
+
+.delete {
+    border: none;
+}
+
+.form-select {
+    width: 120px;
+}
+
+.search {
+    width: 300px;
+}
+
+.card-title,
+.album-title {
+    white-space: nowrap; 
+    overflow: hidden;
+    text-overflow: ellipsis
+}
+
+.load-btn {
+    width: 110px;
+    text-align: center;
+}
